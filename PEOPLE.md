@@ -1,2 +1,2 @@
 Hello, World!
-amend test
+tested easily
